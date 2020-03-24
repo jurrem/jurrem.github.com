@@ -14,13 +14,12 @@ For whom? |
 ## Project Team
 Most of the team is part of [the LCU Community](https://www.liskcenter.io/community/)
 
-Project Roles | Explanation | Name
+Project-Role | Name 
 ------------ | -------------
-Writer | blog, website, etc | ...
-Developer | front-end, back-end, app development | ...
-Organiser | getting the team together, informing everyone, discussion leader | ...
-Illustrator | graphics, infographics, logo's, etc. | ... 
-
+Writer `blog, website, etc` | Name
+Developer `front-end, back-end, app development` | Name
+Organiser `getting the team together, informing everyone, discussion leader` | Name
+Illustrator `graphics, infographics, logo's, etc.` | Name
 
 
 ### Markdown
