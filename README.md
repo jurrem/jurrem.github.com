@@ -1,6 +1,6 @@
 ## The LCU Digital Identity - An Experiment
 
-![GitHub Logo](https://drive.google.com/open?id=1mmPKT999Mw9ZjUcnXm_0-zm7uivizYBX)
+![GitHub Logo](/images/logo.jpeg)
 Format: ![Alt Text](url)
 
 
