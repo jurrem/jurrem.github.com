@@ -5,7 +5,10 @@ Topic | Notes
 ------------ | -------------
 Goal | learn while doing
 Project Description | A digital identity solution using blockchain technology
-For whom? | - new to blockchain - working
+For whom? |
+- new to blockchain 
+- working
+Test
 
 
 ### Markdown
