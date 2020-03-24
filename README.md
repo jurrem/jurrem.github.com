@@ -31,10 +31,12 @@ Developer `front-end, back-end, app development` | Name
 Organiser `getting the team together, informing everyone, discussion leader` | Name
 Illustrator `graphics, infographics, logo's, etc.` | Name
 
-**Talk with- or join the team** 
+## Get in Touch
 
 Join our discord channel [here](https://discord.gg/BQt8tUF)
+_We use it to do an online stand-up, to share links, and have meaningless conversations_
 
+Join the Meetup events [here](https://www.meetup.com/LiskCenterUtrecht/events/)  
 
 ## Process
 
