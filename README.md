@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## The LCU Digital Identity - An Experiment
 
-You can use the [editor on GitHub](https://github.com/jurrem/jurrem.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Topic | Notes
+------------ | -------------
+Goal | learn while doing
+Project Description | A digital identity solution using blockchain technology
+For whom? | - new to blockchain - working
+
 
 ### Markdown
 
