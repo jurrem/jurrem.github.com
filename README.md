@@ -6,10 +6,19 @@
 ## Content
 Topic | Notes
 ------------ | -------------
-Goal | learn while doing
+Goal | Learn by doing
 Project Description | A digital identity solution using blockchain technology
-For whom? |
+For whom? | For the LCU Community to experiment with
 
+## Target Customers
+Who| Notes
+------------ | -------------
+Freelancers (developers, designer, project managers | Fun & Learn by doing
+Local businesses | Learn about blockchain, digital identity & your next steps
+Public organisations | Learn about blockchain, digital identity & possible societal impact in the long run
+Blockchain Startups (Identity) | Share your knowledge, get to know our members, help business & organisations with their next step
+Lisk Center Utrecht | Get a Digital Identity Solution
+Blockchain Platforms & APIs (Lisk, hybrix, ULA..) | Grow the knowledge & expand the ecosystem
 
 ## Project Team
 Most of the team is part of [the LCU Community](https://www.liskcenter.io/community/)
