@@ -21,20 +21,27 @@ Developer `front-end, back-end, app development` | Name
 Organiser `getting the team together, informing everyone, discussion leader` | Name
 Illustrator `graphics, infographics, logo's, etc.` | Name
 
-*Talk with- or join the team*
+**Talk with- or join the team** 
+
 Join our discord channel [here](https://discord.gg/BQt8tUF)
 
 
 ## Process
 
-*The Next Event*
+**Our First (Online) Event!**
 - [Thursday 2nd of April - Study Day](https://www.meetup.com/LiskCenterUtrecht/events/269598831/)
+- To be decided
 
-_What do we do?_ 
-- Get to know the team & learn about digital identity. Create a shared vocabulary. 
+```
+## Study Day - Digital Identity Project Team
 
+**Goal of the Event**
+- Get to know the team 
+- Create a shared vocabulary (blockchain & digital identity)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**What will you learn?**
+- Digital identity concepts & definitions
+```
 
 ```markdown
 Syntax highlighted code block
