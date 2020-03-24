@@ -5,14 +5,14 @@
 
 ## Content
 Topic | Notes
------------- | -------------
+------------ | ------------
 Goal | Learn by doing
 Project Description | A digital identity solution using blockchain technology
 For whom? | For the LCU Community to experiment with
 
 ## Target Customers
 Who| Notes
------------- | -------------
+------------ | ------------
 Freelancers (developers, designer, project managers) | Fun & Learn by doing
 Blockchain Platforms & APIs (Lisk, hybrix, ULA..) | Grow the knowledge & expand the ecosystem
 Blockchain Startups (Identity) | Share your knowledge, get to know the LCU Community, help businesses & organisations with their next step (after the experimental phase)
