@@ -1,4 +1,4 @@
-## The LCU Digital Identity - An Experiment
+## The LCU Digital Identity - Join A Learning Experiment
 
 ![GitHub Logo](/images/logo.jpeg)
 
