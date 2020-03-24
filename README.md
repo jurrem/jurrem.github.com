@@ -21,8 +21,18 @@ Developer `front-end, back-end, app development` | Name
 Organiser `getting the team together, informing everyone, discussion leader` | Name
 Illustrator `graphics, infographics, logo's, etc.` | Name
 
+*Talk with- or join the team*
+Join our discord channel [here](https://discord.gg/BQt8tUF)
 
-### Markdown
+
+## Process
+
+*The Next Event*
+- [Thursday 2nd of April - Study Day](https://www.meetup.com/LiskCenterUtrecht/events/269598831/)
+
+_What do we do?_ 
+- Get to know the team & learn about digital identity. Create a shared vocabulary. 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
