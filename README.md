@@ -33,19 +33,18 @@ Illustrator `graphics, infographics, logo's, etc.` | Name
 
 ## Get in Touch
 
-Join our discord channel [here](https://discord.gg/BQt8tUF)
-_We use it to do an online stand-up, to share links, and have meaningless conversations_
+* Join our discord channel [here](https://discord.gg/BQt8tUF)
+* _We use it to do an online stand-up, to share links, and have meaningless conversations_
 
-Join the Meetup events [here](https://www.meetup.com/LiskCenterUtrecht/events/)  
+* Join the Meetup events [here](https://www.meetup.com/LiskCenterUtrecht/events/)  
 
 ## Process
 
-**Our First (Online) Event!**
-- [Thursday 2nd of April - Study Day](https://www.meetup.com/LiskCenterUtrecht/events/269598831/)
-- To be decided
+1. March 23rd - Kick Off - during online coworking sessions of Blockchain030
+2. **Our First (Online) Event!** [Thursday 2nd of April - Study Day](https://www.meetup.com/LiskCenterUtrecht/events/269598831/)
+3. To be decided
 
-```
-## Study Day - Digital Identity Project Team
+## NEXT EVENT: Study Day - Digital Identity Project Team
 
 **Goal of the Event**
 - Get to know the team 
@@ -53,7 +52,7 @@ Join the Meetup events [here](https://www.meetup.com/LiskCenterUtrecht/events/)
 
 **What will you learn?**
 - Digital identity concepts & definitions
-```
+
 
 ```markdown
 Syntax highlighted code block
