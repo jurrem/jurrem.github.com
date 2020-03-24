@@ -1,5 +1,8 @@
 ## The LCU Digital Identity - An Experiment
 
+![GitHub Logo](https://drive.google.com/open?id=1mmPKT999Mw9ZjUcnXm_0-zm7uivizYBX)
+Format: ![Alt Text](url)
+
 
 Topic | Notes
 ------------ | -------------
@@ -24,6 +27,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+
+
 
 1. Numbered
 2. List
