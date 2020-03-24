@@ -1,17 +1,26 @@
 ## The LCU Digital Identity - An Experiment
 
 ![GitHub Logo](/images/logo.jpeg)
-Format: ![Alt Text](url)
 
 
+## Content
 Topic | Notes
 ------------ | -------------
 Goal | learn while doing
 Project Description | A digital identity solution using blockchain technology
 For whom? |
-- new to blockchain 
-- working
-Test
+
+
+## Project Team
+Most of the team is part of [the LCU Community](https://www.liskcenter.io/community/)
+
+Project Roles | Explanation | Name
+------------ | -------------
+Writer | blog, website, etc | ...
+Developer | front-end, back-end, app development | ...
+Organiser | getting the team together, informing everyone, discussion leader | ...
+Illustrator | graphics, infographics, logo's, etc. | ... 
+
 
 
 ### Markdown
