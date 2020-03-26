@@ -8,7 +8,7 @@ Topic | Notes
 ------------ | ------------
 Goal | Learn by doing
 Project Description | A digital identity solution using blockchain technology
-For whom? | For the LCU Community to experiment with
+For whom? | For the communities to experiment with
 
 ## Target Customers
 Who| Notes
